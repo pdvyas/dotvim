@@ -112,6 +112,7 @@ vnoremap > >gv
 
 " balancing
 " Bundle 'AutoClose'
+Bundle 'Raimondi/delimitMate'
 
 " Clojure
 Bundle 'guns/vim-clojure-static'
